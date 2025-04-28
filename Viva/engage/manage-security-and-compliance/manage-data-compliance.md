@@ -52,7 +52,7 @@ As part of our continued investment in security, we've added the following impro
 
 For keyword matching, use [regular expressions](/dotnet/standard/base-types/regular-expression-language-quick-reference) to match patterns.
     
-Here are some examples of regular expressions commonly used for monitoring.
+Here are some representative examples of regular expressions commonly used for monitoring. You may need to modify these in order to have the most effective expressions for your use cases.
     
 |**Purpose**|**Pattern**|**Matches**|
 |:-----|:-----|:-----|
